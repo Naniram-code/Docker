@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.javaguides</groupId>
-	<artifactId>springboot-docker-demo</artifactId>
+	<artifactId>docker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-docker-demo</name>
 	<description>Demo project for Spring Boot and Docker</description>
